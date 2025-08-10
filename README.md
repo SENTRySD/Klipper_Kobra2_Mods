@@ -4,6 +4,7 @@ Stuff related to my Anycubic Kobra 2 Adventures. <br>
 Helpful Links Kobra2 and Kobra2Pro: <br>
 	https://1coderookie.github.io/Kobra2Insights/ <br>
 	https://1coderookie.github.io/Kobra2ProInsights/ <br>
+    https://github.com/1coderookie/Klipper4Kobra2series <br>
 
 ThinClients: <br>
 	https://forum.drucktipps3d.de/forum/thread/23599-fujitsu-futra-s740-thin-client-als-raspberry-pi-ersatz/ <br>
